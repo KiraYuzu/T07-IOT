@@ -117,4 +117,4 @@ This Arduino sketch demonstrates communication with BLE (Bluetooth Low Energy) d
 - Ensure compatibility with your hardware setup and LoRa module specifications.
 
 ## Author
-This code was authored by [Author Name] and is provided as-is without any warranties.
+This code was authored by Team 07 and is provided as-is without any warranties.
